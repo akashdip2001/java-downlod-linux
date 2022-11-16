@@ -32,6 +32,6 @@ $ sudo update-alternatives --config java
 $ sudo update-alternatives --config javac
 ```
 ---
--Fedora https://docs.fedoraproject.org/en-US/quick-docs/installing-java/
--Redhat https://access.redhat.com/documentation/en-us/openjdk/8/html-single/installing_and_using_openjdk_8_for_rhel/index
--.deb file https://www.oracle.com/in/java/technologies/downloads/#jdk19-linux
+-Fedora https://docs.fedoraproject.org/en-US/quick-docs/installing-java/ <br>
+-Redhat https://access.redhat.com/documentation/en-us/openjdk/8/html-single/installing_and_using_openjdk_8_for_rhel/index <br>
+-.deb file https://www.oracle.com/in/java/technologies/downloads/#jdk19-linux <br>
