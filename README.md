@@ -2,7 +2,8 @@
 java downlod in linux from terminal
 
 Install Java JDK on Kali
-     $ sudo apt update
-     $ sudo apt install default-jdk
-
+```
+        $ sudo apt update
+        $ sudo apt install default-jdk
+```
 
