@@ -32,6 +32,8 @@ Install Java JDK on Kali
         $ sudo apt-cache search openjdk // If you want to install a specific version of the JDK
         $ java --version                // Once the process is finished, you can verify the Java installation with the following command.
 ```
+![install](https://user-images.githubusercontent.com/81384987/202253027-9779f4a7-e8bc-42fd-83dd-19acc1be8309.png)
+
 ---
 Write Java **Hello World** Program 
 - your file name & Class name mast be same
@@ -42,6 +44,8 @@ public class HelloWorld {
    }
 }
 ```
+![javaname](https://user-images.githubusercontent.com/81384987/202252233-e3106ee0-dfc2-4e7a-8057-d2d16e6f6b3e.png)
+
 ---
 Compile Java Program
 ```
