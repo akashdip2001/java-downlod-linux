@@ -28,6 +28,7 @@ Install Java JDK on Kali
 ```
         $ sudo apt update
         $ sudo apt install default-jdk
+        
         $ sudo apt-cache search openjdk // If you want to install a specific version of the JDK
         $ java --version                // Once the process is finished, you can verify the Java installation with the following command.
 ```
