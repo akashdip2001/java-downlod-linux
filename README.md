@@ -51,6 +51,10 @@ Compile Java Program
 ```
 $ javac HelloWorld.java
 ```
+Run Java Problem 
+```
+$ java HellowWorld
+```
 ---
 To switch between Java versions, execute the following two commands while selecting the Java version you require.
 ```
