@@ -22,6 +22,8 @@ Coding by Akashdip Mahapatra
 # How to install Java on Kali Linux [**YouTube Video**](https://youtu.be/LH4pW-GtBfk)
 java downlod in linux from terminal
 
+<h2><a href="https://akashdip2001.github.io/install-java/" class="previous">&laquo; java downlod in Windows</a></h2>
+
 ---
 
 Install Java JDK on Kali
@@ -68,4 +70,5 @@ Websites -
 [**.deb file**](https://www.oracle.com/in/java/technologies/downloads/#jdk19-linux) <br>
 
 <a href="https://akashdip2001.github.io/linktree/" target="blank"><img align="right" src="https://yt3.ggpht.com/7tPHyFi7-QyTnhpc484ZzTuRp0fZSY-CUuykvzuKdKYIwt0fmw98SWMqwRy_7pZ6LQzEYJlvXA=s88-c-k-c0x00ffffff-no-rj-mo" alt="akashdip2001" height="40" width="40" /></a>
-<a href="https://www.youtube.com/c/akash aot" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash aot" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/akash aot" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="akash aot" height="30" width="40" /></a> <br>
+<h2><a href="https://akashdip2001.github.io/install-java/" class="previous">&laquo; java downlod in Windows</a></h2> <br>
